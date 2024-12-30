@@ -30,66 +30,112 @@
            <p class="flex flex-col gap-y-3 text-xs md:text-base lg:text-[1.1em]">
             <h4 class="font-black  text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">ABOUT</h4>
             <p class="font-semibold text-sm md:text-base text-[#ffffffb4] mt-2">
-                Since my earliest memories, technology has always been a source of fascination and wonder for me. From the moment I laid my hands on my first computer, I was captivated by the endless possibilities it offered and the way it seamlessly integrated into every aspect of our lives.<br>
-                As I grew older, my interest in technology only intensified, leading me to explore different fields within the vast landscape of IT. However, it was <b class="font-semibold text-[#ffffff]">web development</b> that truly captured my imagination and sparked my curiosity.<br>
-                These days, I spend my time building dummy websites to practice my web design and development skills. I recently completed an Internship at a Nigerian Company named <b class="font-semibold text-[#ffffff]">Safe Recruits</b>. I was their only developer but I was only tasked with fixing up the front-end of their website.
+               Since I first laid my hands on a computer, I’ve been captivated by the endless possibilities technology offers.<br>
+                Over time, my fascination evolved into a focused passion for web development, where I’ve found the perfect blend of creativity and problem-solving. <br>
+                Building elegant, user-friendly, and functional web applications drives my curiosity and fuels my professional growth.
             </p>
             </p>
             <p class="flex flex-col gap-y-3 lg:text-[1.1em]">
             <h4 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em] mt-6">EXPERIENCE AND SKILLS</h4>
             <p class="font-semibold text-sm md:text-base text-[#ffffffb4] mt-2">
-                I am a <b class="font-semibold text-[#ffffff]">full-stack developer</b> specializing in <b class="font-semibold text-[#ffffff]">ReactJs</b> for frontend development and <b class="font-semibold text-[#ffffff]">ExpressJs</b> for backend development.
-                I have <b class="font-semibold text-[#ffffff]">three</b> years of experience with both, along with proficiency in <b class="font-semibold text-[#ffffff]">HTML</b>, <b class="font-semibold text-[#ffffff]">CSS</b>, <b class="font-semibold text-[#ffffff]">JavaScript</b>, <b class="font-semibold text-[#ffffff]">MySQL</b>, <b class="font-semibold text-[#ffffff]">MongoDB</b>, <b class="font-semibold text-[#ffffff]">Laravel</b>, <b class="font-semibold text-[#ffffff]">TailwindCSS</b>, <b class="font-semibold text-[#ffffff]">AlpineJS</b> and <b class="font-semibold text-[#ffffff]">Livewire</b>.
-                I design my web apps using <b class="font-semibold text-[#ffffff]">Figma</b>, Develop the front-end using <b class="font-semibold text-[#ffffff]">ReactJs</b>, The backend using <b class="font-semibold text-[#ffffff]">ExpressJs</b> and <b class="font-semibold text-[#ffffff]">MongoDB</b> or <b class="font-semibold text-[#ffffff]">MySQL</b> to manage the database.<br>
-                But as of recently, After gaining some proficiency in <b class="font-semibold text-[#ffffff]">Laravel</b> and <b class="font-semibold text-[#ffffff]">TailwindCSS</b>, I began using them to build full applications. In my opinion they greatly simplify the development process.<br>
-                I first interned at a tech company in the UK called <b class="font-semibold text-[#ffffff]">First Stack Ltd</b> for six months, where I was trained in the execution of web development projects.
-                The knowledge and experience I gained there were invaluable in the development of my QR attendance system project.<br>
-                Then in <b class="font-semibold text-[#ffffff]">August 2024</b>, a week after my graduation from university, I interned at a recruitment agency called <b class="font-semibold text-[#ffffff]">Safe Recruits</b> for 3 months, as the <b class="font-medium text-[#ffffff]">sole developer</b> tasked with beautifying their website.
-                <h5 class="font-black text-[#ffffffed] text-[0.75em] md:text-[0.85em] mt-5">Recent Experience</h5>
-                <p class="font-semibold text-[#ffffffb4] mt-4 text-sm md:text-base">Web Developer Intern | Safe Recruits Ltd | Victoria Island, Lagos, Nigeria | August 2024 - November 2024</p>
+                I am a full-stack developer with <b class="font-semibold text-[#ffffff]">3 years</b> of experience building robust web applications using <b class="font-semibold text-[#ffffff]">ReactJs</b> (frontend) and <b class="font-semibold text-[#ffffff]">ExpressJs</b> (backend). <br>
+                I excel in designing seamless user interfaces, implementing scalable backend systems, and managing efficient databases with <b class="font-semibold text-[#ffffff]">MySQL</b> and <b class="font-semibold text-[#ffffff]">MongoDB</b>. <br>
+                I specialize in using modern frameworks such as <b class="font-semibold text-[#ffffff]">Laravel</b>, <b class="font-semibold text-[#ffffff]">TailwindCSS</b>, <b class="font-semibold text-[#ffffff]">AlpineJS</b>, and <b class="font-semibold text-[#ffffff]">Livewire</b> to simplify development and optimize user experiences.
+              
+                <h5 class="font-black text-[#ffffffed] text-[0.85em] md:text-[1em] mt-5">Core Skills</h5>
                 <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-5">
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Acquired proficiency in Laravel, AlpineJs, Livewire and Tailwind CSS.</p>
+                        <p><b class="font-semibold text-[#ffffff]">Frontend:</b> ReactJs, HTML, CSS, JavaScript, TailwindCSS, AlpineJS</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Designed and implemented web page styles for authentication, payment, home and dashboard pages.</p>
+                        <p><b class="font-semibold text-[#ffffff]">Backend:</b> ExpressJs, Laravel</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Developed and integrated frontend code to match designed styles.</p>
+                        <p><b class="font-semibold text-[#ffffff]">Database:</b> MySQL, MongoDB</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Effectively managed both frontend and backend aspects of the website.</p>
+                        <p><b class="font-semibold text-[#ffffff]">Tools:</b> Figma, Livewire</p>
+                    </li>
+                </ul>
+                
+                <h4 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em] mt-6">PROFESSIONAL EXPERIENCE</h4>
+                <p class="font-semibold text-[#ffffffb4] mt-4 text-sm md:text-base">
+                <b class="font-semibold text-[#ffffff]">Laravel Developer Intern | Safe Recruits Ltd | Victoria Island, Lagos, Nigeria | August 2024 - November 2024</b>
+                </p>
+                <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-5">
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Designed and implemented responsive web pages (authentication, payment, home, and dashboard) using Laravel, TailwindCSS, and Livewire.</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Troubleshooted technical issues encountered by job candidates.</p>
+                        <p>Developed and integrated frontend code to align with UI/UX designs, ensuring a seamless user experience.</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Utilized Livewire for efficient component management.</p>
+                        <p>Managed both frontend and backend aspects of the website effectively.</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Leveraged AlpineJs for simplified JavaScript functionality.</p>
+                        <p>Troubleshot technical issues encountered by job candidates, ensuring smooth functionality.</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p>Employed Tailwind CSS for responsive design and mobile-first development.</p>
+                        <p>Leveraged Livewire for efficient component management and AlpineJs for simplified JavaScript functionality.</p>
+                    </li>
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Improved mobile responsiveness through TailwindCSS.</p>
+                    </li>
+                </ul>
+                <p class="font-semibold text-[#ffffffb4] mt-6 text-sm md:text-base">
+                    <b class="font-semibold text-[#ffffff]">Web Development Intern | First Stack Ltd | United Kingdom | Jan 2022 - June 2022</b>
+                </p>
+                <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-5">
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Trained in executing end-to-end web development projects.</p>
+                    </li>
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Collaborated with senior developers to deliver scalable and functional applications.</p>
                     </li>
                 </ul>
             </p>
             </p>
             <p class="flex flex-col gap-y-3 text-xs md:text-base lg:text-[1.1em] mt-6">
             <h4 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">EDUCATION</h4>
+            <p class="font-semibold text-[#ffffffb4] text-sm md:text-base mt-2 mb-4">
+                <b class="font-semibold text-[#ffffff]"> Bachelor of Science in Software Engineering | Babcock University</b>
+            </p>
+            <h4 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">LICENSCES AND CERTIFICATIONS</h4>
             <p class="font-semibold text-[#ffffffb4] text-sm md:text-base mt-2">
-                I am a recent graduate of <b class="font-semibold text-[#ffffff]">Babcock University's School of Computing Sciences</b>. 
-                I enrolled in January 2021 and graduated in August 2024. 
-                The school taught me a lot about managing projects and gathering requirements. 
-                However, learning the programming languages was largely a personal effort.
+            <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-2">
+                <li class="flex flex-row items-center">
+                    <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                    <a href="https://www.coursera.org/account/accomplishments/records/WHSUH2Q8J4FR" class="no-underline text-blue-500 hover:text-blue-700">Technical Support Fundamentals</a>
+                </li>
+                <li class="flex flex-row items-center">
+                    <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                    <a href="https://www.coursera.org/account/accomplishments/records/49B22H2AFDC7" class="no-underline text-blue-500 hover:text-blue-700">IT Security: Defense against the digital dark arts</a>
+                </li>
+                <li class="flex flex-row items-center">
+                    <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                    <a href="https://www.coursera.org/account/accomplishments/records/3QKPL2VDMYLW" class="no-underline text-blue-500 hover:text-blue-700">Operating Systems and You: Becoming a Power User</a>
+                </li>
+                <li class="flex flex-row items-center">
+                    <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                    <a href="https://www.coursera.org/account/accomplishments/records/D92GC782DD42" class="no-underline text-blue-500 hover:text-blue-700">System Administration and IT Infrastructure Services</a>
+                </li>
+                <li class="flex flex-row items-center">
+                    <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                    <a href="https://www.coursera.org/account/accomplishments/records/2C69ZEWDTMBF" class="no-underline text-blue-500 hover:text-blue-700">The Bits and Bytes of Computer Networking</a>
+                </li>
+            </ul>
             </p>
             </p>
             <div class="flex flex-col gap-y-3 mt-6">

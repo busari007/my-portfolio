@@ -23,6 +23,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://william-busari-portfolio.vercel.app",
+        "APP_KEY":"base64:TlRpj+l3BAHnQlhoO/bC1b8/Q8vfgdIsK+tyrIkLTck=",
         "ASSET_URL": "https://william-busari-portfolio.vercel.app",
         "VITE_BASE": "/build/",
 
