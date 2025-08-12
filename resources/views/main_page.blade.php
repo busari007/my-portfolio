@@ -143,7 +143,7 @@
                 <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 <button class="relative w-32 group hover:cursor-pointer hover:bg-gray-700">
                     <a href="https://omose-ceutiques.vercel.app/">
-                        <img src="{{ asset('images/designs/mums_website_screenshot.png') }}" alt="design_image" class="w-full object-contain"/>
+                        <img src="{{ asset('images/designs/mums-website-screenshot.png') }}" alt="design_image" class="w-full object-contain"/>
                     </a>
                 </button>
                 <button x-data x-on:click="$dispatch('open-modal', {name : 'Screenshot1'})" class="relative w-32 group">
