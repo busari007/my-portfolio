@@ -139,8 +139,13 @@
             </p>
             </p>
             <div class="flex flex-col gap-y-3 mt-6">
-                <h1 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">WEBPAGES I HAVE DONE</h1>
+                <h1 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">WEBSITES/WEBPAGES I HAVE DONE</h1>
                 <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <button class="relative w-32 group hover:cursor-pointer hover:bg-gray-700">
+                    <a href="https://omose-ceutiques.vercel.app/">
+                        <img src="{{ asset('images/designs/mums_website_screenshot.png') }}" alt="design_image" class="w-full object-contain"/>
+                    </a>
+                </button>
                 <button x-data x-on:click="$dispatch('open-modal', {name : 'Screenshot1'})" class="relative w-32 group">
                     <!-- The overlay div -->
                     <div class="absolute inset-0 hidden group-hover:block bg-gray-700 opacity-70 z-10"></div>
