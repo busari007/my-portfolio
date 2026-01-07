@@ -11,7 +11,7 @@
     <div class="flex flex-col md:flex-row gap-3 lg:gap-x-7 justify-between mx-auto w-[80%] md:w-[90%] lg:w-[80%] max-w-screen-2xl mt-3 md:mt-20 lg:mt-20 text-center items-center md:items-start">
         <div class="w-[90%] text-center md:text-left">
             <h1 class="font-semibold text-2xl md:text-3xl lg:text-4xl xl:text-[3em] mt-6 mb-1 md:mt-0 lg:mb-4 xl:mb-5">William Busari</h1>
-            <p class="text-base md:text-lg lg:text-xl lg:text-[1.5em] mb-2 lg:mb-4 xl:mb-6 font-semibold text-gray-300">Full Stack Developer | Google Cloud Certified Cloud Engineer</p>
+            <p class="text-base md:text-lg lg:text-xl lg:text-[1.5em] mb-2 lg:mb-4 xl:mb-6 font-semibold text-gray-300 w-[75%]">Full Stack Developer | Google Cloud Certified Cloud Engineer</p>
             <p class="flex font-semibold text-[#ffffff80] text-xs lg:text-[0.9em] text-center mx-auto md:mx-0 md:text-left w-full md:w-[70%] xl:w-[65%] mb-4 md:mb-2 lg:mb-6 xl:mb-8 leading-5">
                 I build scalable, easy-to-use software systems with 
                 fast response times, clean interfaces, and real-world impact.
@@ -33,7 +33,7 @@
                From the moment I first interacted with a computer, I’ve been fascinated by the power of technology 
                to solve real problems. Over the years, this curiosity evolved into a strong passion for full‑stack web development and cloud computing.<br>
                I specialize in building modern, performant web applications with clean UI/UX, reliable backend architecture, and scalable cloud deployments.<br>
-               I enjoy working across the entire development lifecycle — from translating designs into pixel‑perfect interfaces to optimizing backend performance and deploying cloud‑native solutions.
+               I enjoy working across the entire development lifecycle; from translating designs into pixel‑perfect interfaces to optimizing backend performance and deploying cloud‑native solutions.
             </p>
             </p>
             <p class="flex flex-col gap-y-3 lg:text-[1.1em]">
