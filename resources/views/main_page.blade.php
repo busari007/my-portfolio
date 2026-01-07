@@ -11,10 +11,10 @@
     <div class="flex flex-col md:flex-row gap-3 lg:gap-x-7 justify-between mx-auto w-[80%] md:w-[90%] lg:w-[80%] max-w-screen-2xl mt-3 md:mt-20 lg:mt-20 text-center items-center md:items-start">
         <div class="w-[90%] text-center md:text-left">
             <h1 class="font-semibold text-2xl md:text-3xl lg:text-4xl xl:text-[3em] mt-6 mb-1 md:mt-0 lg:mb-4 xl:mb-5">William Busari</h1>
-            <p class="text-base md:text-lg lg:text-xl lg:text-[1.5em] mb-2 lg:mb-4 xl:mb-6 font-semibold text-gray-300">Full Stack Developer</p>
+            <p class="text-base md:text-lg lg:text-xl lg:text-[1.5em] mb-2 lg:mb-4 xl:mb-6 font-semibold text-gray-300">Full Stack Developer | Google Cloud Certified Cloud Engineer</p>
             <p class="flex font-semibold text-[#ffffff80] text-xs lg:text-[0.9em] text-center mx-auto md:mx-0 md:text-left w-full md:w-[70%] xl:w-[65%] mb-4 md:mb-2 lg:mb-6 xl:mb-8 leading-5">
-                I build very easy to use software systems with
-                quick response times and unambiguous interfaces
+                I build scalable, easy-to-use software systems with 
+                fast response times, clean interfaces, and real-world impact.
             </p>
             <ul class="flex flex-row gap-x-3 md:gap-x-1 mx-auto m-1 md:mt-4 lg:mt-8 md:mx-0 justify-evenly xl:justify-between w-full md:max-w-64 lg:max-w-72 xl:max-w-80">
                 <li><a href="https://x.com/bubuDwarrior"><img src="{{ asset('images/twitter.png') }}" alt="x_logo" class="w-6 h-6 md:w-7 md:h-7 xl:w-9 xl:h-9 object-contain hover:cursor-pointer"/></a></li>
@@ -30,18 +30,17 @@
            <p class="flex flex-col gap-y-3 text-xs md:text-base lg:text-[1.1em]">
             <h4 class="font-black  text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">ABOUT</h4>
             <p class="font-semibold text-sm md:text-base text-[#ffffffb4] mt-2">
-               Since I first laid my hands on a computer, I’ve been captivated by the endless possibilities technology offers.<br>
-                Over time, my fascination evolved into a focused passion for web development, where I’ve found the perfect blend of creativity and problem-solving. <br>
-                Building elegant, user-friendly, and functional web applications drives my curiosity and fuels my professional growth.
+               From the moment I first interacted with a computer, I’ve been fascinated by the power of technology 
+               to solve real problems. Over the years, this curiosity evolved into a strong passion for full‑stack web development and cloud computing.<br>
+               I specialize in building modern, performant web applications with clean UI/UX, reliable backend architecture, and scalable cloud deployments.<br>
+               I enjoy working across the entire development lifecycle — from translating designs into pixel‑perfect interfaces to optimizing backend performance and deploying cloud‑native solutions.
             </p>
             </p>
             <p class="flex flex-col gap-y-3 lg:text-[1.1em]">
             <h4 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em] mt-6">EXPERIENCE AND SKILLS</h4>
             <p class="font-semibold text-sm md:text-base text-[#ffffffb4] mt-2">
-                I am a full-stack developer with <b class="font-semibold text-[#ffffff]">3 years</b> of experience building robust web applications using <b class="font-semibold text-[#ffffff]">ReactJs</b> (frontend) and <b class="font-semibold text-[#ffffff]">ExpressJs</b> (backend). <br>
-                I excel in designing seamless user interfaces, implementing scalable backend systems, and managing efficient databases with <b class="font-semibold text-[#ffffff]">MySQL</b> and <b class="font-semibold text-[#ffffff]">MongoDB</b>. <br>
-                I specialize in using modern frameworks such as <b class="font-semibold text-[#ffffff]">Laravel</b>, <b class="font-semibold text-[#ffffff]">TailwindCSS</b>, <b class="font-semibold text-[#ffffff]">AlpineJS</b>, and <b class="font-semibold text-[#ffffff]">Livewire</b> to simplify development and optimize user experiences.
-              
+                I am a full-stack developer with <b class="font-semibold text-[#ffffff]">5 years</b> of semi-professional experience building and maintaining scalable web applications. <br>
+                I work confidently across frontend, backend, databases, and cloud infrastructure, delivering complete features end‑to‑end while collaborating effectively with cross‑functional teams.
                 <h5 class="font-black text-[#ffffffed] text-[0.85em] md:text-[1em] mt-5">Core Skills</h5>
                 <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-5">
                     <li class="flex flex-row items-center">
@@ -50,7 +49,11 @@
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p><b class="font-semibold text-[#ffffff]">Backend:</b> ExpressJs, Laravel</p>
+                        <p><b class="font-semibold text-[#ffffff]">Backend:</b> NodeJs, ExpressJs, Laravel</p>
+                    </li>
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p><b class="font-semibold text-[#ffffff]">Cloud & DevOps:</b> Google Cloud Platform (Compute Engine, Cloud Run, Cloud Functions, Cloud SQL, IAM, VPC), Docker, Kubernetes</p>
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
@@ -58,11 +61,36 @@
                     </li>
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
-                        <p><b class="font-semibold text-[#ffffff]">Tools:</b> Figma, Livewire</p>
+                        <p><b class="font-semibold text-[#ffffff]">Tools:</b> Git, Figma, Livewire, Canva</p>
                     </li>
                 </ul>
                 
                 <h4 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em] mt-6">PROFESSIONAL EXPERIENCE</h4>
+                <p class="font-semibold text-[#ffffffb4] mt-4 text-sm md:text-base">
+                <b class="font-semibold text-[#ffffff]">Multifunctional Operations Associate | Preciousgate Integrated Services Ltd | Ikeja, Lagos, Nigeria | March 2025 – December 2025</b>
+                </p>
+                <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-5">
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Led B2B outreach across industries including Pharmaceuticals, Oil & Gas, FMCG, and Manufacturing.</p>
+                    </li>
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Conducted enterprise visits to major clients such as Dangote Refinery, Shell, Guinness, BUA Group, and Vitabiotics Nigeria.</p>
+                    </li>
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Provided company‑wide IT support, significantly reducing downtime and improving operational continuity.</p>
+                    </li>
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Built an internal Laravel + TailwindCSS automation tool to replace manual job‑completion forms.</p>
+                    </li>
+                    <li class="flex flex-row items-center">
+                        <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                        <p>Designed marketing and promotional materials used for enterprise outreach.</p>
+                    </li>
+                </ul>
                 <p class="font-semibold text-[#ffffffb4] mt-4 text-sm md:text-base">
                 <b class="font-semibold text-[#ffffff]">Laravel Developer Intern | Safe Recruits Ltd | Victoria Island, Lagos, Nigeria | August 2024 - November 2024</b>
                 </p>
@@ -115,7 +143,11 @@
             <h4 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">LICENSCES AND CERTIFICATIONS</h4>
             <p class="font-semibold text-[#ffffffb4] text-sm md:text-base mt-2">
             <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-2">
-                <li class="flex flex-row items-center">
+            <li class="flex flex-row items-center">
+                    <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
+                    <p class="no-underline text-white shadow-sm">Google Cloud Associate Cloud Engineer (Issued October 2025)</p>
+                </li>    
+            <li class="flex flex-row items-center">
                     <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
                     <a href="https://www.coursera.org/account/accomplishments/records/WHSUH2Q8J4FR" class="no-underline text-blue-500 hover:text-blue-700">Technical Support Fundamentals</a>
                 </li>
@@ -141,6 +173,16 @@
             <div class="flex flex-col gap-y-3 mt-6">
                 <h1 class="font-black text-[#ffffffde] text-[0.75em] md:text-[0.85em] lg:text-[1em]">WEBSITES/WEBPAGES I HAVE DONE</h1>
                 <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <button class="relative w-32 group hover:cursor-pointer hover:bg-gray-700">
+                    <a href="https://tnhealthyhairstudio.vercel.app/">
+                        <img src="{{ asset('images/designs/tnhealthyhairstudio-screenshot.png') }}" alt="design_image" class="w-full object-contain"/>
+                    </a>
+                </button>
+                <button class="relative w-32 group hover:cursor-pointer hover:bg-gray-700">
+                    <a href="https://william-busari-punch-assessment-work.vercel.app/">
+                        <img src="{{ asset('images/designs/punch-assessment-screenshot.png') }}" alt="design_image" class="w-full object-contain"/>
+                    </a>
+                </button>
                 <button class="relative w-32 group hover:cursor-pointer hover:bg-gray-700">
                     <a href="https://omose-ceutiques.vercel.app/">
                         <img src="{{ asset('images/designs/mums-website-screenshot.png') }}" alt="design_image" class="w-full object-contain"/>
