@@ -41,7 +41,7 @@
             <p class="font-semibold text-sm md:text-base text-[#ffffffb4] mt-2">
                 I am a full-stack developer with <b class="font-semibold text-[#ffffff]">5 years</b> of semi-professional experience building and maintaining scalable web applications. <br>
                 I work confidently across frontend, backend, databases, and cloud infrastructure, delivering complete features end‑to‑end while collaborating effectively with cross‑functional teams.
-                <h5 class="font-black text-[#ffffffed] text-[0.85em] md:text-[1em] mt-5">Core Skills</h5>
+                <h5 class="font-black text-[#ffffffed] text-[0.85em] md:text-[1em] mt-5">CORE SKILLS</h5>
                 <ul class="flex flex-col gap-y-5 font-semibold text-sm md:text-base text-[#ffffffb4] mt-5">
                     <li class="flex flex-row items-center">
                         <img src="{{ asset('images/period.png') }}" class="w-5 h-5 object-contain"/>
